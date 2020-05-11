@@ -13,3 +13,7 @@ Stock Ticker for use with free Alpha Vantage license. Prices are updated each 3 
 ![Add Stocks](readme_files/add_stocks.jpg)
 - Save the page in your favourites retaining the URL (which now has your key saved).
 - Next time you open the page using the link from favourites it will have all your stocks and the key (make sure you don't chare the link with your friends).
+
+## Options
+- More details can be visible by having "Details=true" in URL.
+![Add Stocks](readme_files/details.jpg)
