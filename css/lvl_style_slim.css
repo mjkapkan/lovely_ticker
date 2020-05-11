@@ -1,0 +1,60 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  background: linear-gradient(45deg, rgb(0, 78, 90), #000000 100%);
+}
+
+@media (min-width: 200px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* .stock-title {
+  font-size: 30px;
+} */
+
+.stock-header {
+  color: #424242;
+  background-color: #00BFD5;
+}
+
+.container {
+  margin-top: 15px;
+  max-width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.pricing-header {
+  max-width: 100%;
+}
+
+.pricing-card-title {
+  color: #00BFD5;
+}
+
+.card-deck .card {
+  min-width: 330px;
+  max-width: 330px;
+  background-color: #424242;
+}
+
+.list-box {
+  color: #E6E6E6;
+  text-align: left;
+}
+
+.stock-up {
+  color: #6CB33F;
+}
+
+.stock-down {
+  color: #E36F1E;
+}
+
+.border-top { border-top: 1px solid #00788A; }
+.border-bottom { border-bottom: 1px solid #00788A; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 191, 214, 0.8); }
